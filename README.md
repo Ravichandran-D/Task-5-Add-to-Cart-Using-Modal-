@@ -14,7 +14,7 @@ A modern e-commerce web application built with React and Vite, featuring a respo
 ## Project Structure
 
 ```
-webstore/
+NOWHERE/
 ├── public/
 ├── src/
 │   ├── Components/
